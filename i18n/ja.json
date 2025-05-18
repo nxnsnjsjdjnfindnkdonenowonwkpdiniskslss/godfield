@@ -16,7 +16,7 @@
             "imageName": "exchange",
             "category": "trade",
             "ability": "exchange",
-            "price": 5,
+            "price": 10,
             "giftRate": 20,
             "name": "両替"
         },
@@ -24,7 +24,7 @@
             "imageName": "sell",
             "category": "trade",
             "ability": "sell",
-            "price": 5,
+            "price": 10,
             "giftRate": 20,
             "name": "売る"
         },
@@ -32,7 +32,7 @@
             "imageName": "buy",
             "category": "trade",
             "ability": "buy",
-            "price": 5,
+            "price": 10,
             "giftRate": 20,
             "name": "買う"
         },
@@ -839,11 +839,11 @@
         {
             "imageName": "dangerous-pestle",
             "category": "weapons",
-            "element": "light",
+            "element": "darkness",
             "atk": 30,
             "ability": "danger",
             "price": 5,
-            "giftRate": 1,
+            "giftRate": 499,
             "name": "あぶないシャーペン"
         },
         {
