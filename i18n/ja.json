@@ -2856,8 +2856,8 @@
             "matchmaking": "索敵中"
         },
         "record": {
-            "ranking": "ランキング",
-            "rating": "レーティング",
+            "ranking": "日頃の行いランキング",
+            "rating": "日頃の行いの良さ",
             "gameCount": "{{count}} 試合"
         },
         "room": {
@@ -2870,7 +2870,7 @@
             "userCount": "預言者 {{count}} 人",
             "users": "預言者",
             "full": "満員",
-            "giveUp": "戦いをあきらめる"
+            "giveUp": "戦いから逃げる"
         },
         "entry": {
             "solo": "個人戦",
@@ -2904,7 +2904,7 @@
             "opening": "先生たちの戦いが<br>今始まる！",
             "tiebreaker": "- 終末の時 -",
             "tiebreakerBody": "シャーペンがやって来る",
-            "endingWin": "勝利",
+            "endingWin": "勝利　日頃の行い",
             "endingDraw": "そしてだれも いなくなった",
             "removeGame": "戦いを終わる"
         },
@@ -2944,7 +2944,7 @@
             "consumeAllMP": "MPをすべて消費する",
             "cutCost": "消費なしで奇跡を起こす",
             "boostCP": "+¥{{cp}}",
-            "boostCPToEnemy": "敵にあげる",
+            "boostCPToEnemy": "日頃の行いが良い敵にあげる",
             "boostCPOfEverybody": "みんなにあげる",
             "collectCPOfEverybody": "みんなの金が<br>日頃の行いがいい人に集まる",
             "takeCP": "¥{{cp}} 没収",
@@ -2963,7 +2963,7 @@
             "removeUsedMiracles": "起こした奇跡を<br>二個洗い流す",
             "removeSomething": "神器か起こした奇跡を<br>二個盗む",
             "shuffleItemsOfEverybody": "みんなの神器が<br>無作為に入れ替わる",
-            "callPhenomenon": "超常現象が起こる"
+            "callPhenomenon": 日頃の行いに応じた報いを受ける"
         },
         "alerts": {
             "pray": "武器を所持していると祈れない",
